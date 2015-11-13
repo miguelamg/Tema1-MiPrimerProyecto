@@ -10,9 +10,12 @@
 }
 
 /* Set width on the form input elements since they're 100% wide by default */
+/*
+    Autor: MA
+    Fecha: 13-11-2015
 input,
 select,
 textarea {
     max-width: 280px;
 }
-
+*/ 
